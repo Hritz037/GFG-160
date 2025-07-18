@@ -1,4 +1,4 @@
-Problem link- https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/find-the-number-of-islands
+//Problem link- https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/find-the-number-of-islands
 class Solution {
     public int countIslands(char[][] grid) {
         int ans=0, visited[][]=new int[grid.length][grid[0].length];
